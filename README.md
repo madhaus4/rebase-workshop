@@ -1,5 +1,7 @@
 # Rebase Workshop
 
+NEW LINE OF TEXT
+
 CONTENTS OF THIS FILE
 ---------------------
 
@@ -18,13 +20,13 @@ REQUIREMENTS
 ------------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis. At imperdiet dui accumsan sit amet. Ullamcorper a lacus vestibulum sed arcu non odio. Aliquet eget sit amet tellus cras. Nibh praesent tristique magna sit amet purus gravida. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum.
 
-RECOMMENDED MODULES
+<!-- RECOMMENDED MODULES
 -------------------
 - Eget nunc 
 - Scelerisque viverra mauris 
 - Vulputate enim 
 - Nulla aliquet 
-- Porttitor lacus
+- Porttitor lacus -->
 
 INSTALLATION
 ------------
@@ -42,3 +44,6 @@ Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend 
 TROUBLESHOOTING
 ---------------
 At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Phasellus vestibulum lorem sed risus.
+
+
+hash hash hash
